@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Study20200525</string>
+    <string name="click_to_move_to_menu">Click to Move to Menu</string>
+    <string name="click_to_finish">Click to Finish</string>
+</resources>

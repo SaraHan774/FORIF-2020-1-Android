@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Study0518</string>
+    <string name="press_to_send_intent_msg">Intent 전달!</string>
+</resources>
